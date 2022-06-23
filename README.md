@@ -2,4 +2,4 @@
 可用於discord
 
 SVG檔案為一般Html使用之檔案
-PNG為我已經替你轉好的符號(可用於D)
+PNG為我已經替你轉好的符號(可用於Discord)
